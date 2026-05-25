@@ -1,0 +1,12 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Modal / local env
+.modal.toml
+.venv/
+venv/
+
+# OS cruft
+.DS_Store
